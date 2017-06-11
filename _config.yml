@@ -33,6 +33,13 @@ author:
   name:           'Shubham Gupta'
   email:          sgshubham03@gmail.com
 
+# url at which you want to host your blog
+blog: /
+
+# url at which you want to host your archive
+timeline: /timeline
+
+
 # To enable google analytics, supply your token below
 analytics-google: 'UA-91050363-1'
 
@@ -82,4 +89,4 @@ timezone:         Asia/Jaipur
 devurl: http://shubh1m.github.io/
 port: 4000
 host: 0.0.0.0
-baseurl: /
+baseurl: 

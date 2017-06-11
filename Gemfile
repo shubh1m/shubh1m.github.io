@@ -2,6 +2,8 @@ source 'http://rubygems.org'
 
 gem 'jekyll'
 gem 'redcarpet'
+gem 'rake'
+gem 'rspec'
 gem 'html-proofer'
 gem 'jemoji'
 gem 'jekyll-mentions'
